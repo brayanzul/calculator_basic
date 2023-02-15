@@ -1,5 +1,7 @@
 # calculator_basic
 
+![Captura021](https://user-images.githubusercontent.com/62777613/218909446-7c2ffba9-5949-4d70-9b3e-f20e4633acd1.PNG)
+
 A new Flutter project.
 
 ## Getting Started
